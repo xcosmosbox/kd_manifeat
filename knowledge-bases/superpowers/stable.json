@@ -1,0 +1,20 @@
+{
+  "format": "",
+  "kg": "superpowers",
+  "source_repo": "",
+  "source_ref": "",
+  "source_commit": "",
+  "builder_version": "",
+  "builder_commit": "",
+  "schema_version": 0,
+  "prompt_set_version": "",
+  "model": "",
+  "config_digest": "",
+  "bundle_digest": "sha256:40897efb520088c366e1af0ce86fa074f530fcef6a8de4fbbd1a0d66a6cbe698",
+  "kb_version": "",
+  "created_at": "",
+  "minimum_reader_version": "",
+  "channel": "stable",
+  "published_at": "2026-07-28T16:50:23Z",
+  "asset_name": "bundle.tar.gz"
+}
