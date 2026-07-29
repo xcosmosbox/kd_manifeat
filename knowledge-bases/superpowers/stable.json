@@ -9,13 +9,13 @@
   "schema_version": 0,
   "prompt_set_version": "",
   "model": "",
-  "config_digest": "sha256:",
-  "bundle_digest": "sha256:09239d292c83370f7b7a910ebbbe6160246658be48cf4d04561c656f90a7d2e7",
+  "config_digest": "sha256:01b9a4c84bb42d7a0c618d9d67bc469c90b31ca2b074bb90f9d4fc72f4303cd1",
+  "bundle_digest": "sha256:ab67aaafd1cca15f59dcaf706241d2c402b5af357a6f42cd2f181c3f3aa468c6",
   "kb_version": "",
   "created_at": "",
   "minimum_reader_version": "",
   "channel": "stable",
-  "published_at": "2026-07-29T10:22:54Z",
-  "release_tag": "kb-superpowers-864607ad61ce",
+  "published_at": "2026-07-29T16:28:08Z",
+  "release_tag": "kb-superpowers-0de6ce7713e8",
   "asset_name": "bundle.tar.gz"
 }
