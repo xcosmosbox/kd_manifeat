@@ -10,11 +10,12 @@
   "prompt_set_version": "",
   "model": "",
   "config_digest": "sha256:",
-  "bundle_digest": "sha256:bb4342c033fb0885d446c74adc3cf1931cb05ecaf6240d08e3a192c159ac06a2",
+  "bundle_digest": "sha256:3d94eb2d11a78c06c58dfe2090b9b5ecdccde1c1f498a38e08697fbc00f3525f",
   "kb_version": "",
   "created_at": "",
   "minimum_reader_version": "",
   "channel": "stable",
-  "published_at": "2026-07-28T17:42:34Z",
+  "published_at": "2026-07-29T09:16:53Z",
+  "release_tag": "kb-superpowers-0f114f516f78",
   "asset_name": "bundle.tar.gz"
 }
